@@ -17,7 +17,7 @@
 - ❓ Ask me about anything related CSS  
   
 
-- ⚡ Fun fact: I started learning HTML when I was 13 by adapting blog backgrounds  
+- ⚡ Fun fact: I started learning HTML when I was 13 by adapting blog backgrounds, stopped at 15 because I didn't have available resources, and since it never stopped calling me, I picked it up last year
   
 
 <br/>  
