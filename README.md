@@ -5,7 +5,7 @@
 
 <br/>  
 
-### <div align="center">I'm Hana, starting out as a front-end developer 👨‍💻 currently enrolled in HYF 🚀</div>  
+### <div align="center">I'm Hana, starting out as a developer 👨‍💻 currently enrolled in HYF 🚀</div>  
   
 
 - 🔭 I’m currently working on my portfolio website [dreams333](#)  
