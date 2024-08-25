@@ -8,10 +8,10 @@
 ### <div align="center">I'm Hana, starting out as a developer 👨‍💻 currently enrolled in HYF 🚀</div>  
   
 
-- 🔭 I’m currently working on my portfolio website [dreams333](#)  
+- 🔭 I’m currently working on final graduation app [Closer](#)  
   
 
-- 🌱 I’m currently learning Java Script  
+- 🌱 I’m currently learning NodeJS
   
 
 - ❓ Ask me about anything related CSS  
