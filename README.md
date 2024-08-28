@@ -2,7 +2,7 @@
 
 ## About Me
 <div align="center"><img src="https://media.tenor.com/NqKn2UhXzU0AAAAi/get-greeting-say-hi.gif" align="center" width="200" height="200" /></div>  
-## Github Stats  
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hhana1-a&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
@@ -17,7 +17,7 @@ src="./assets/adobe-illustrator.svg"
   width="40">
 <br/>  
 
-### <div align="center">I'm Hana, fullstact junior engineer. 👨‍💻🚀</div>  
+### <div align="center">I'm Hana, fullstack junior engineer. 👨‍💻🚀</div>  
   
 
 - 🔭Recently I had an idea for an app and am futher developing that project
@@ -33,9 +33,62 @@ src="./assets/adobe-illustrator.svg"
   
 
 <br/>  
-
-
-
+<img src="./assets/terminal.svg"
+  width="50">
+<img
+src="./assets/javascript.svg"
+  width="50">
+  <img
+src="./assets/slack-icon.svg"
+  width="50">
+  <img
+src="./assets/react.svg"
+  width="50">
+    <img
+src="./assets/npm-icon.svg"
+  width="50">
+    <img
+src="./assets/nodejs-icon.svg"
+  width="50">
+  <img
+src="./assets/mysql.svg"
+  width="50">
+    <img
+src="./assets/mongodb-icon.svg"
+  width="50">
+    <img
+src="./assets/microsoft-windows-icon.svg"
+  width="50">
+    <img
+src="./assets/macOS.svg"
+  width="50">
+    <img
+src="./assets/javascript.svg"
+  width="50">
+    <img
+src="./assets/html-5.svg"
+  width="50">
+    <img
+src="./assets/github-icon.svg"
+  width="50">
+    <img
+src="./assets/git-icon.svg"
+  width="50">
+     <img
+src="./assets/figma.svg"
+  width="50">
+     <img
+src="./assets/express.svg"
+  width="50">
+     <img
+src="./assets/css-3.svg"
+  width="50">
+       <img
+src="./assets/adobe-photoshop.svg"
+  width="50">
+     <img
+src="./assets/adobe-illustrator.svg"
+  width="50">
 
 
 
