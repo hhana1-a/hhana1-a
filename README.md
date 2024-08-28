@@ -2,9 +2,8 @@
 
 ## About Me
 <div align="center"><img src="https://media.tenor.com/NqKn2UhXzU0AAAAi/get-greeting-say-hi.gif" align="center" width="200" height="200" /></div>  
-<div style="text-align: center;">
-  <img src="./assets/IMG_7236.svg" width="700" style="fill: blue;">
-</div>
+
+  <img src='https://raw.githubusercontent.com/hhana1-a/hhana1-a/main/assets/IMG_7236.JPG' width='700px'>
 
 
 <br/>  
