@@ -2,7 +2,9 @@
 
 ## About Me
 <div align="center"><img src="https://media.tenor.com/NqKn2UhXzU0AAAAi/get-greeting-say-hi.gif" align="center" width="200" height="200" /></div>  
-
+<img
+src="./assets/IMG_7236"
+  width="400"> **Skills**:
 <br/>  
 
 ### <div align="center">I'm Hana, starting out as a developer 👨‍💻 currently enrolled in HYF 🚀</div>  
