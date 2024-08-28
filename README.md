@@ -3,13 +3,13 @@
 ## About Me
 <div align="center"><img src="https://media.tenor.com/NqKn2UhXzU0AAAAi/get-greeting-say-hi.gif" align="center" width="200" height="200" /></div>  
 <img
-src="./assets/IMG_7236.jpg"
-  width="400">
+src="./assets/IMG_7236.svg"
+  width="700">
 <br/>  
 <br/>  
 <img
 src="./assets/adobe-illustrator.svg"
-  width="400">
+  width="40">
 <br/>  
 
 ### <div align="center">I'm Hana, starting out as a developer 👨‍💻 currently enrolled in HYF 🚀</div>  
