@@ -2,10 +2,9 @@
 
 ## About Me
 <div align="center"><img src="https://media.tenor.com/NqKn2UhXzU0AAAAi/get-greeting-say-hi.gif" align="center" width="200" height="200" /></div>  
-<div background-color="white" width="700">
 <img
 src="./assets/IMG_7236.svg"
-color="pink" align="center"> </div>
+fill="blue" width="700" align="center">
 <br/>  
 <br/>  
 
