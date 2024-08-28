@@ -19,10 +19,10 @@
 
 
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=hhana1-a&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div  align="center"><img src="https://github-readme-stats.vercel.app/api?username=hhana1-a&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-  <img src='https://raw.githubusercontent.com/hhana1-a/hhana1-a/main/assets/IMG_7236.JPG' width='700px'>
+  <img  align="center"  src='https://raw.githubusercontent.com/hhana1-a/hhana1-a/main/assets/IMG_7236.JPG' width='700px'>
 
 
 <br/>  
