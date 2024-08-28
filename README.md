@@ -1,5 +1,6 @@
    
 
+<div align="center"><img src="https://media.tenor.com/NqKn2UhXzU0AAAAi/get-greeting-say-hi.gif" align="center" width="200" height="200" /></div>  
 ## About Me
 
 ### <div align="center">I'm Hana, fullstack junior engineer. 👨‍💻🚀</div>  
@@ -17,9 +18,8 @@
 - ⚡ Fun fact: I started learning HTML om my own when I was 13 by adapting blog backgrounds, and picked it up last year ☀️
 
 
-<div align="center"><img src="https://media.tenor.com/NqKn2UhXzU0AAAAi/get-greeting-say-hi.gif" align="center" width="200" height="200" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hhana1-a&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=hhana1-a&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
   <img src='https://raw.githubusercontent.com/hhana1-a/hhana1-a/main/assets/IMG_7236.JPG' width='700px'>
