@@ -2,7 +2,10 @@
 
 ## About Me
 <div align="center"><img src="https://media.tenor.com/NqKn2UhXzU0AAAAi/get-greeting-say-hi.gif" align="center" width="200" height="200" /></div>  
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hhana1-a&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<br/>  
   <img src='https://raw.githubusercontent.com/hhana1-a/hhana1-a/main/assets/IMG_7236.JPG' width='700px'>
 
 
@@ -14,13 +17,13 @@ src="./assets/adobe-illustrator.svg"
   width="40">
 <br/>  
 
-### <div align="center">I'm Hana, starting out as a developer 👨‍💻 currently enrolled in HYF 🚀</div>  
+### <div align="center">I'm Hana, fullstact junior engineer. 👨‍💻🚀</div>  
   
 
-- 🔭 I’m currently working on final graduation app [Closer](#)  
+- 🔭Recently I had an idea for an app and am futher developing that project
   
 
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning NodeJS, fetching APIs
   
 
 - ❓ Ask me about anything related CSS  
@@ -33,10 +36,7 @@ src="./assets/adobe-illustrator.svg"
 
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hhana1-a&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
 
 
 ## Connect with me  
