@@ -30,67 +30,108 @@ src="./assets/adobe-illustrator.svg"
   
 
 - ⚡ Fun fact: I started learning HTML om my own when I was 13 by adapting blog backgrounds, and picked it up last year ☀️
-  
 
-<br/>  
+
+  <table>
+  <tr>
+    <td>
 <img src="./assets/terminal.svg"
   width="50">
+   </td>
+   <td>
 <img
 src="./assets/javascript.svg"
   width="50">
+    </td>
+    <td>
   <img
 src="./assets/slack-icon.svg"
   width="50">
+    </td>
+    <td>
   <img
 src="./assets/react.svg"
   width="50">
+      </td>
+      <td>
     <img
 src="./assets/npm-icon.svg"
   width="50">
+      </td>
+      <td>
     <img
 src="./assets/nodejs-icon.svg"
   width="50">
+   </td>
+   <td>
   <img
 src="./assets/mysql.svg"
   width="50">
+      </td>
+      <td>
     <img
 src="./assets/mongodb-icon.svg"
   width="50">
+       </td>
+       <td>
     <img
 src="./assets/microsoft-windows-icon.svg"
   width="50">
+       </td>
+       <td>
     <img
 src="./assets/macOS.svg"
   width="50">
+      </td>
+      <td>
     <img
 src="./assets/javascript.svg"
   width="50">
+      </td>
+      <td>
     <img
 src="./assets/html-5.svg"
   width="50">
+       </td>
+      <td>
     <img
 src="./assets/github-icon.svg"
   width="50">
+       </td>
+       <td>
     <img
 src="./assets/git-icon.svg"
   width="50">
+       </td>
+      <td>
      <img
 src="./assets/figma.svg"
   width="50">
+       </td>
+       <td>
      <img
 src="./assets/express.svg"
   width="50">
+       </td>
+       <td>
      <img
 src="./assets/css-3.svg"
   width="50">
+       </td>
+       <td>
        <img
 src="./assets/adobe-photoshop.svg"
   width="50">
+      </td>
+      <td>
      <img
 src="./assets/adobe-illustrator.svg"
   width="50">
+      </td>
+    </tr>
+</table>
 
-
+   
 
 ## Connect with me  
 <div align="center">
