@@ -12,9 +12,6 @@
 <br/>  
 <br/>  
 
-<img
-src="./assets/adobe-illustrator.svg"
-  width="40">
 <br/>  
 
 ### <div align="center">I'm Hana, fullstack junior engineer. 👨‍💻🚀</div>  
