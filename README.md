@@ -1,7 +1,6 @@
    
 
 <div align="center"><img src="https://media.tenor.com/NqKn2UhXzU0AAAAi/get-greeting-say-hi.gif" align="center" width="200" height="200" /></div>  
-## About Me
 
 ### <div align="center">I'm Hana, fullstack junior engineer. 👨‍💻🚀</div>  
   
