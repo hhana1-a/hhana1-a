@@ -6,6 +6,11 @@
 src="./assets/IMG_7236.jpg"
   width="400">
 <br/>  
+<br/>  
+<img
+src="./assets/adobe-illustrator.svg"
+  width="400">
+<br/>  
 
 ### <div align="center">I'm Hana, starting out as a developer 👨‍💻 currently enrolled in HYF 🚀</div>  
   
