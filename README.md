@@ -2,16 +2,16 @@
 
 <div align="center"><img src="https://media.tenor.com/NqKn2UhXzU0AAAAi/get-greeting-say-hi.gif" align="center" width="200" height="200" /></div>  
 
-### <div align="center">I'm Hana, fullstack junior engineer. 👨‍💻🚀</div>  
+### <div align="center">I'm Hana, a web dev 👩‍💻🚀</div>  
   
 
-- 🔭Recently I had an idea for an app and am futher developing that project
+- 🔭Recently I finished 7 months Fullstack course Hack Your Future.
   
 
-- 🌱 I’m currently learning NodeJS, fetching APIs
+- 🌱 I’m currently revising my knowledge with emphasis on NodeJS, React, CSS
   
 
-- ❓ Ask me about anything related CSS  
+- ❓ Ask me about anything related to our final graduation project.  
   
 
 - ⚡ Fun fact: I started learning HTML om my own when I was 13 by adapting blog backgrounds, and picked it up last year ☀️
