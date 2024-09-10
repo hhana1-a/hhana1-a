@@ -31,24 +31,24 @@
 
 <br/>  
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-    <img src="./assets/terminal.svg" alt="Terminal" width="50" style="padding: 10px;">
-    <img src="./assets/javascript.svg" alt="JavaScript" width="50" style="padding: 10px;">
-    <img src="./assets/slack-icon.svg" alt="Slack" width="50" style="padding: 10px;">
-    <img src="./assets/react.svg" alt="React" width="50" style="padding: 10px;">
-    <img src="./assets/npm-icon.svg" alt="NPM" width="50" style="padding: 10px;">
-    <img src="./assets/nodejs-icon.svg" alt="Node.js" width="50" style="padding: 10px;">
-    <img src="./assets/mysql.svg" alt="MySQL" width="50" style="padding: 10px;">
-    <img src="./assets/mongodb-icon.svg" alt="MongoDB" width="50" style="padding: 10px;">
-    <img src="./assets/microsoft-windows-icon.svg" alt="Windows" width="50" style="padding: 10px;">
-    <img src="./assets/macOS.svg" alt="macOS" width="50" style="padding: 10px;">
-    <img src="./assets/html-5.svg" alt="HTML5" width="50" style="padding: 10px;">
-    <img src="./assets/github-icon.svg" alt="GitHub" width="50" style="padding: 10px;">
-    <img src="./assets/git-icon.svg" alt="Git" width="50" style="padding: 10px;">
-    <img src="./assets/figma.svg" alt="Figma" width="50" style="padding: 10px;">
-    <img src="./assets/express.svg" alt="Express" width="50" style="padding: 10px;">
-    <img src="./assets/css-3.svg" alt="CSS3" width="50" style="padding: 10px;">
-    <img src="./assets/adobe-photoshop.svg" alt="Photoshop" width="50" style="padding: 10px;">
-    <img src="./assets/adobe-illustrator.svg" alt="Illustrator" width="50" style="padding: 10px;">
+    <img src="./assets/terminal.svg" alt="Terminal" height="50" style="padding: 10px;">
+    <img src="./assets/javascript.svg" alt="JavaScript" height="50" style="padding: 10px;">
+    <img src="./assets/slack-icon.svg" alt="Slack" height="50" style="padding: 10px;">
+    <img src="./assets/react.svg" alt="React" height="50" style="padding: 10px;">
+    <img src="./assets/npm-icon.svg" alt="NPM" height="50" style="padding: 10px;">
+    <img src="./assets/nodejs-icon.svg" alt="Node.js" height="50" style="padding: 10px;">
+    <img src="./assets/mysql.svg" alt="MySQL" height="50" style="padding: 10px;">
+    <img src="./assets/mongodb-icon.svg" alt="MongoDB" height="50" style="padding: 10px;">
+    <img src="./assets/microsoft-windows-icon.svg" alt="Windows" height="50" style="padding: 10px;">
+    <img src="./assets/macOS.svg" alt="macOS" height="50" style="padding: 10px;">
+    <img src="./assets/html-5.svg" alt="HTML5" height="50" style="padding: 10px;">
+    <img src="./assets/github-icon.svg" alt="GitHub" height="50" style="padding: 10px;">
+    <img src="./assets/git-icon.svg" alt="Git" height="50" style="padding: 10px;">
+    <img src="./assets/figma.svg" alt="Figma" height="50" style="padding: 10px;">
+    <img src="./assets/express.svg" alt="Express" height="50" style="padding: 10px;">
+    <img src="./assets/css-3.svg" alt="CSS3" height="50" style="padding: 10px;">
+    <img src="./assets/adobe-photoshop.svg" alt="Photoshop" height="50" style="padding: 10px;">
+    <img src="./assets/adobe-illustrator.svg" alt="Illustrator" height="50" style="padding: 10px;">
 </div>
 
 
