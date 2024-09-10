@@ -2,7 +2,7 @@
 
 <div align="center"><img src="https://media.tenor.com/NqKn2UhXzU0AAAAi/get-greeting-say-hi.gif" align="center" width="200" height="200" /></div>  
 
-### <div align="center">I'm Hana, a web dev 👩‍💻🚀</div>  
+### <div align="center">I'm Hana, a web developer 👩‍💻🚀</div>  
   
 
 - 🔭Recently I finished 7 months Fullstack course Hack Your Future.
@@ -30,107 +30,27 @@
 <br/>  
 
 <br/>  
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+    <img src="./assets/terminal.svg" alt="Terminal" width="50" style="padding: 10px;">
+    <img src="./assets/javascript.svg" alt="JavaScript" width="50" style="padding: 10px;">
+    <img src="./assets/slack-icon.svg" alt="Slack" width="50" style="padding: 10px;">
+    <img src="./assets/react.svg" alt="React" width="50" style="padding: 10px;">
+    <img src="./assets/npm-icon.svg" alt="NPM" width="50" style="padding: 10px;">
+    <img src="./assets/nodejs-icon.svg" alt="Node.js" width="50" style="padding: 10px;">
+    <img src="./assets/mysql.svg" alt="MySQL" width="50" style="padding: 10px;">
+    <img src="./assets/mongodb-icon.svg" alt="MongoDB" width="50" style="padding: 10px;">
+    <img src="./assets/microsoft-windows-icon.svg" alt="Windows" width="50" style="padding: 10px;">
+    <img src="./assets/macOS.svg" alt="macOS" width="50" style="padding: 10px;">
+    <img src="./assets/html-5.svg" alt="HTML5" width="50" style="padding: 10px;">
+    <img src="./assets/github-icon.svg" alt="GitHub" width="50" style="padding: 10px;">
+    <img src="./assets/git-icon.svg" alt="Git" width="50" style="padding: 10px;">
+    <img src="./assets/figma.svg" alt="Figma" width="50" style="padding: 10px;">
+    <img src="./assets/express.svg" alt="Express" width="50" style="padding: 10px;">
+    <img src="./assets/css-3.svg" alt="CSS3" width="50" style="padding: 10px;">
+    <img src="./assets/adobe-photoshop.svg" alt="Photoshop" width="50" style="padding: 10px;">
+    <img src="./assets/adobe-illustrator.svg" alt="Illustrator" width="50" style="padding: 10px;">
+</div>
 
-  <table>
-  <tr>
-    <td>
-<img src="./assets/terminal.svg"
-  width="50">
-   </td>
-   <td>
-<img
-src="./assets/javascript.svg"
-  width="50">
-    </td>
-    <td>
-  <img
-src="./assets/slack-icon.svg"
-  width="50">
-    </td>
-    <td>
-  <img
-src="./assets/react.svg"
-  width="50">
-      </td>
-      <td>
-    <img
-src="./assets/npm-icon.svg"
-  width="50">
-      </td>
-      <td>
-    <img
-src="./assets/nodejs-icon.svg"
-  width="50">
-   </td>
-   <td>
-  <img
-src="./assets/mysql.svg"
-  width="50">
-      </td>
-      <td>
-    <img
-src="./assets/mongodb-icon.svg"
-  width="50">
-       </td>
-       <td>
-    <img
-src="./assets/microsoft-windows-icon.svg"
-  width="50">
-       </td>
-       <td>
-    <img
-src="./assets/macOS.svg"
-  width="50">
-      </td>
-      <td>
-    <img
-src="./assets/javascript.svg"
-  width="50">
-      </td>
-      <td>
-    <img
-src="./assets/html-5.svg"
-  width="50">
-       </td>
-      <td>
-    <img
-src="./assets/github-icon.svg"
-  width="50">
-       </td>
-       <td>
-    <img
-src="./assets/git-icon.svg"
-  width="50">
-       </td>
-      <td>
-     <img
-src="./assets/figma.svg"
-  width="50">
-       </td>
-       <td>
-     <img
-src="./assets/express.svg"
-  width="50">
-       </td>
-       <td>
-     <img
-src="./assets/css-3.svg"
-  width="50">
-       </td>
-       <td>
-       <img
-src="./assets/adobe-photoshop.svg"
-  width="50">
-      </td>
-      <td>
-     <img
-src="./assets/adobe-illustrator.svg"
-  width="50">
-      </td>
-    </tr>
-</table>
-
-   
 
 ## Connect with me  
 <div align="center">
