@@ -25,25 +25,21 @@
 <br/>  
 
 <br/>  
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">  &nbsp;&nbsp;&nbsp;
+<div style="display: flex; flex-wrap: wrap; gap: 20; justify-content: center;">  &nbsp;&nbsp;&nbsp;
     <img src="./assets/terminal.svg" alt="Terminal" height="50" >&nbsp;&nbsp;&nbsp;
+    <img src="./assets/html-5.svg" alt="HTML5" height="50">&nbsp;&nbsp;&nbsp;
+    <img src="./assets/css-3.svg" alt="CSS3" height="50" >&nbsp;&nbsp;&nbsp;
     <img src="./assets/javascript.svg" alt="JavaScript" height="50">&nbsp;&nbsp;&nbsp;
-    <img src="./assets/slack-icon.svg" alt="Slack" height="50" >&nbsp;&nbsp;&nbsp;
     <img src="./assets/react.svg" alt="React" height="50" >&nbsp;&nbsp;&nbsp;
     <img src="./assets/npm-icon.svg" alt="NPM" height="50" >&nbsp;&nbsp;&nbsp;
     <img src="./assets/nodejs-icon.svg" alt="Node.js" height="50" >&nbsp;&nbsp;&nbsp;
     <img src="./assets/mysql.svg" alt="MySQL" height="50" >&nbsp;&nbsp;&nbsp;
     <img src="./assets/mongodb-icon.svg" alt="MongoDB" height="50" >&nbsp;&nbsp;&nbsp;
     <img src="./assets/microsoft-windows-icon.svg" alt="Windows" height="50">&nbsp;&nbsp;&nbsp;
-    <img src="./assets/html-5.svg" alt="HTML5" height="50">&nbsp;&nbsp;&nbsp;
- <span style="background-color: lightgrey; padding: 5px; border-radius: 5px;">
-    <img src="./assets/github-icon.svg" alt="GitHub" height="50">
-</span>&nbsp;&nbsp;&nbsp;
-    <img src="./assets/git-icon.svg" alt="Git" height="50">&nbsp;&nbsp;&nbsp;
     <img src="./assets/figma.svg" alt="Figma" height="50">&nbsp;&nbsp;&nbsp;
-    <img src="./assets/css-3.svg" alt="CSS3" height="50" >&nbsp;&nbsp;&nbsp;
     <img src="./assets/adobe-photoshop.svg" alt="Photoshop" height="50">&nbsp;&nbsp;&nbsp;
     <img src="./assets/adobe-illustrator.svg" alt="Illustrator" height="50">&nbsp;&nbsp;&nbsp;
+    <img src="./assets/slack-icon.svg" alt="Slack" height="50" >&nbsp;&nbsp;&nbsp;
 </div>
 
 
