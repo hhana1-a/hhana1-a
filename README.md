@@ -8,7 +8,7 @@
 - 🔭Recently I finished 7 months Fullstack course Hack Your Future.
   
 
-- 🌱 I’m currently revising my knowledge with emphasis on NodeJS, React, CSS
+- 🌱 I’m currently discovering GSAP
   
 
 - ❓ Ask me about anything related to our final graduation project.  
