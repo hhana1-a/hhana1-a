@@ -20,11 +20,6 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hhana1-a&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-<div align="center">
-  <img src='https://raw.githubusercontent.com/hhana1-a/hhana1-a/main/assets/IMG_7236.JPG' width='700px'>
-</div>
-
 
 <br/>  
 <br/>  
@@ -41,7 +36,9 @@
     <img src="./assets/mongodb-icon.svg" alt="MongoDB" height="50" >&nbsp;&nbsp;&nbsp;
     <img src="./assets/microsoft-windows-icon.svg" alt="Windows" height="50">&nbsp;&nbsp;&nbsp;
     <img src="./assets/html-5.svg" alt="HTML5" height="50">&nbsp;&nbsp;&nbsp;
-    <img src="./assets/github-icon.svg" alt="GitHub" height="50">&nbsp;&nbsp;&nbsp;
+ <span style="background-color: lightgrey; padding: 5px; border-radius: 5px;">
+    <img src="./assets/github-icon.svg" alt="GitHub" height="50">
+</span>&nbsp;&nbsp;&nbsp;
     <img src="./assets/git-icon.svg" alt="Git" height="50">&nbsp;&nbsp;&nbsp;
     <img src="./assets/figma.svg" alt="Figma" height="50">&nbsp;&nbsp;&nbsp;
     <img src="./assets/css-3.svg" alt="CSS3" height="50" >&nbsp;&nbsp;&nbsp;
