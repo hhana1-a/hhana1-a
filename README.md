@@ -35,7 +35,6 @@
     <img src="./assets/nodejs-icon.svg" alt="Node.js" height="50" >&nbsp;&nbsp;&nbsp;
     <img src="./assets/mysql.svg" alt="MySQL" height="50" >&nbsp;&nbsp;&nbsp;
     <img src="./assets/mongodb-icon.svg" alt="MongoDB" height="50" >&nbsp;&nbsp;&nbsp;
-    <img src="./assets/microsoft-windows-icon.svg" alt="Windows" height="50">&nbsp;&nbsp;&nbsp;
     <img src="./assets/figma.svg" alt="Figma" height="50">&nbsp;&nbsp;&nbsp;
     <img src="./assets/adobe-photoshop.svg" alt="Photoshop" height="50">&nbsp;&nbsp;&nbsp;
     <img src="./assets/adobe-illustrator.svg" alt="Illustrator" height="50">&nbsp;&nbsp;&nbsp;
